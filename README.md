@@ -13,7 +13,7 @@ Figure 1.2. Displacement imaging technique used in *Severance* [(Goldberg, 2022)
 
 
 ## Part 2: Coding Technique Exploration
-Object-oriented programming is a coding technique that can be used to implement displacement imaging. Figure 2.1 shows an interactive p5.js sketch of mouse-following dials. This technique enables modular control over visual elements on the screen as the user hovers the cursor over the artwork, allowing for movements such as trembling and distortion, such as the example in *Part 1* to mirror the feeling of uneasiness. This coding technique can be layered with additional elements of colour, changes in size, and sound to contribute to the user engagement and the desired emotional response of the user (e.g. fear and anxiety).
+Object-oriented programming is a coding technique that can be used to implement displacement imaging. Figure 2.1 shows an interactive p5.js sketch of mouse-following dials. This technique enables modular control over visual elements on the screen as the user hovers the cursor over the artwork, allowing for movements such as trembling and distortion (see example in *Part 1*) to mirror the feeling of uneasiness. This coding technique can be layered with additional elements of colour, changes in size, and sound to contribute to the user engagement and the desired emotional response of the user (e.g. fear and anxiety).
 
 An example of the code for mouse-following dials using object-oriented programming is shown [here](https://editor.p5js.org/pattvira/sketches/kaFjH5TcN).
 
