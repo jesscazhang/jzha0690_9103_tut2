@@ -5,7 +5,7 @@
 The imaging technique I find inspiring is the displacement effect used in Apple TV’s *Severance*, where numbers tremble and distort in response to cursor movement. This is shown in Figures 1.1 and 1.2. This visual instability creates a sense of fear and tension, amplifying the user’s emotional response. Incorporating this technique into our project could emulate the similar feelings evoked from our selected artwork, *The Scream*. Additionally, pairing this technique with sound could heighten the sensory experience, creating a dynamic representation of this artwork with a focus on the human emotions of panic and anxiety.
 
 ![Screenshot 1 of displacement imaging technique used in Severance](images/Figure_1.1.jpg)
-Figure 1.1. Displacement imaging technique used in *Severance* [(Reddit, 2021)](the_numbers_are_scary)
+Figure 1.1. Displacement imaging technique used in *Severance* [(Reddit, 2021)](https://www.reddit.com/r/SeveranceAppleTVPlus/comments/t3te06/the_numbers_are_scary/)
 
 
 ![Screenshot 2 of displacement imaging technique used in Severance](images/Figure_1.2.png)
